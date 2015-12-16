@@ -1,0 +1,40 @@
+body {
+    background: #000;
+}
+.navbar {
+    min-height: 80px;
+    padding: 15px;
+}
+
+.navbar-default {
+    border: 1px solid #fff;
+    background-color: #000;
+}
+
+.title {
+    font: bold small-caps 250% Georgia, "Times New Roman", serif;
+    padding-top: 25px;
+    color:#fff;
+}
+.genreButton {
+    border:1px solid #000;
+    border-radius: 4px;
+    padding:10px;
+    height:100px;
+    width:300px;
+    background-color: #8F0000;
+    font:bold small-caps 150% Georgia, "Times New Roman", serif;
+}
+img{
+    margin:10px;
+}
+.titleText{
+    color:#fff;
+}
+a:hover , a:focus, a{
+    color:#fff;
+}
+.icons {
+    margin: 20px;
+    text-align: center;
+}
